@@ -16,3 +16,12 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/fannaijenny11-svg).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Sponge Slice
+
+A tiny, no-score sandbox. Drag across the sponge to open a new little wound; the organs inside are already having a day. There is no timer, no win screen, and no wrong way to play.
+
+- **Draw** anywhere across the sponge with a mouse, pen, or finger to slice.
+- **Undo** removes your last cut. **Start fresh** clears the whole mess.
+- The **♪** button toggles the quiet squish sounds.
+- Everything is a single static `index.html` — open it directly or serve the folder with any static file server.
